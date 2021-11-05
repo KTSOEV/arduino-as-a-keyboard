@@ -1,2 +1,2 @@
 # arduino-as-a-keyboard
-arduino as a keyboard without arduino leonardo
+arduino Uno as a keyboard without an Arduino Leonardo chip
